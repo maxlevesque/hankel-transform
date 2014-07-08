@@ -22,17 +22,6 @@ It uses the rude trapezoidal method for the integration. *That's barely legal* :
 see http://en.wikipedia.org/wiki/Trapezoidal_rule  
 
 
-Author
-------
-
-My name is Maximilien Levesque (maximilien.levesque at gmail.com).  
-I wrote this program to compute the Hankel transform of radial potentials like the Lennard-Jones interaction potential.  
-Their purpose is then to be introduced in some perturbation theory.  
-
-This was done when I was in postdoc at Ecole Normale Superieure, in Paris, in the theoretical chemistry group of Daniel Borgis (@dborgis).   
-
-I would be please to receive feedback, bug-reports, etc.  
-
 
 How to get the latest version of hankel-transform?
 --------------------------------------------------
@@ -80,3 +69,21 @@ Revisions
 ---------
 2011 07 19 Maximilien Levesque    
 2011 11 02 Maximilien Levesque  
+
+
+
+Author
+------
+
+My name is Maximilien Levesque (maximilien.levesque at gmail.com).  
+I wrote this program to compute the Hankel transform of radial potentials like the Lennard-Jones interaction potential.  
+Their purpose is then to be introduced in some perturbation theory.  
+
+This was done when I was in postdoc at Ecole Normale Superieure, in Paris, in the theoretical chemistry group of Daniel Borgis (@dborgis).   
+
+I would be pleased to receive feedback, bug-reports, etc.  
+
+Credits
+-------
+
+Many thanks to Julien Beutier. He kept track of this program I had lost!
