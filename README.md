@@ -67,8 +67,8 @@ One should write a parser for the input file.
 
 Revisions
 ---------
-2011 07 19 Maximilien Levesque    
-2011 11 02 Maximilien Levesque  
+19/07/2011
+02/11/2011
 
 
 
